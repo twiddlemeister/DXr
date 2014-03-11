@@ -16,7 +16,7 @@ You'll need to download PhantomJS for starters. You can get that from [here](htt
 Next you need to decide what you want to do with this software, so open config.js. If you want to test it out and not purchase anything, set justForFunMode to true. If you want to actually purchase something then add shipping address details and your PayPal login and then set justForFunMode to false.
 
 **NOTE**
-The program probably requires you to have your PayPal linked to your bank account. I haven't tested it with anything else.
+The program probably requires you to have your PayPal linked to your bank account. I haven't tested it with anything else. Also all this program is doing really is mimicking a user and programmatically filling in form fields based on the information you provide in config.js.
 
 Now just open terminal in the root of DXr and run:
 
