@@ -20,13 +20,13 @@ The program probably requires you to have your PayPal linked to your bank accoun
 
 Now just open terminal in the root of DXr and run:
 
-```./phantomjs app.js
+    ./phantomjs app.js
   
 (Or phantomjs.exe for Windows)
   
 If you're getting some weird logs regarding CoreText on Mac then add this to the end (I think they fixed this in the newer versions but just incase:)
 
-```2> >(grep -v CoreText 1>&2)
+    2> >(grep -v CoreText 1>&2)
   
 Have fun. Don't buy any £1000 knock-off Android tablets by accident.
   
