@@ -1,20 +1,25 @@
 /*
- * Configuration file for DXr.
- *
- * Author: Dave Mountain
- * Date: 11th March 2014
- *
- * **NOTE**
- * USE AT YOUR OWN RISK.
- *
- * I AIN'T GOING TO BE RESPONSIBLE FOR YOU ACCIDENTALLY BUYING YOURSELF A
- * KNOCK-OFF ANDROID TABLET FOR £1000 OR SOMETHING. I DID THIS FOR MY OWN
- * AMUSEMENT. PLEASE ALSO BE AWARE THAT IF YOU DON'T KNOW DEALEXTREME VERY WELL
- * THERE IS A HUGE CHANCE YOU'LL PROBABLY GET A "SHOCK-YOUR-FRIEND" DERIVATIVE
- * OF SOMETHING. LIKE A RUBBER DUCK. OR A FRIDGE MAGNET.
- *
- * YOU HAVE BEEN WARNED.
- */
+Copyright (c) 2014 David Mountain
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+THE SOFTWARE.
+*/
+
 var DXR_CONFIG = {
 
 	/*
