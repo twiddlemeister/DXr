@@ -104,6 +104,7 @@ function updateCart(sku)
 	page.open(cartUrl, function(status) {
 		if (DXR_CONFIG.justForFunMode)
 		{
+			console.log('Cart image saved.');
 			page.render('cart.png');
 			return;
 		}
